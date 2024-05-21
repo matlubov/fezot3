@@ -1,0 +1,36 @@
+body{
+    background-color:darkgrey;
+    width: 300px ;
+
+}
+.box{
+    background-color: white;
+    height: 450px ;
+    padding-top: 20px ;
+    padding-right: 10px ;
+    border: 3px solid black;
+    border-radius: 20px 20px 20px 20px ;
+    margin: auto;
+    margin-top: 100px ;
+
+}
+button{
+    border: 5px double white;
+    background-color:gold;
+    margin-left: 10px ;
+    margin-top: 30px ;
+    border-radius: 10px; 
+    padding: 10px 90px 10px 100px ;
+
+}
+a{
+    color: white;
+
+}
+button{
+    color: white;
+}
+
+.clas{
+    margin-left: 5px ;
+}
